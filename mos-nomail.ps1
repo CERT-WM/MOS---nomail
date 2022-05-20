@@ -184,7 +184,7 @@ $tekst.Name        = 'tuid'
 $tekst.Left        = 10
 $tekst.Top         = 70
 $tekst.Width       = 860
-$tekst.Height      = 710
+$tekst.Height      = 680
 $tekst.Multiline   = $True
 $tekst.Font        = $FONT
 
